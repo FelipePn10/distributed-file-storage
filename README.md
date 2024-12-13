@@ -120,6 +120,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Para dúvidas ou sugestões, entre em contato:
 
-- **E-mail**: [seuemail@example.com](mailto\:seuemail@example.com)
-- **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/seu-perfil/)
+- **E-mail**: [felipepanosso3l@example.com](mailto\:felipepanosso3@example.com)
 
