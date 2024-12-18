@@ -1,5 +1,7 @@
 # Sistema de Armazenamento de Arquivos Distribuído em Golang
 
+*em desenvolvimento* *readme exemplo*
+
 ## Descrição do Projeto
 
 Este é um sistema completo de **Armazenamento de Arquivos Distribuído** desenvolvido em Golang. O objetivo é criar uma solução escalável e tolerante a falhas para armazenar, gerenciar e recuperar arquivos distribuídos entre vários servidores. Este projeto pode ser usado como base para aprender sobre sistemas distribuídos ou como uma solução personalizável para demandas reais de armazenamento.
